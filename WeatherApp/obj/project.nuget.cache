@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "STWfmtwGTsQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patri\\Project-X\\weather-app-demo\\WeatherApp\\WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\10.0.0\\microsoft.bcl.asyncinterfaces.10.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0\\microsoft.extensions.configuration.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.0\\microsoft.extensions.diagnostics.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\10.0.0\\microsoft.extensions.diagnostics.healthchecks.10.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\10.0.0\\microsoft.extensions.diagnostics.healthchecks.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.0\\microsoft.extensions.fileproviders.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\10.0.0\\microsoft.extensions.hosting.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\swashbuckle.aspnetcore\\10.0.1\\swashbuckle.aspnetcore.10.0.1.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.0.1\\swashbuckle.aspnetcore.swagger.10.0.1.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.0.1\\swashbuckle.aspnetcore.swaggergen.10.0.1.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.0.1\\swashbuckle.aspnetcore.swaggerui.10.0.1.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
